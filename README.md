@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on - Global Design Project Japan  2021
 - 🌱 I’m currently studying at  - Future University Hakodate, Japan  公立はこだて未来大学
 - 📫 How to reach me- [Instagram]
+- Web profile  [WebProfile]
+- Terminal Portfolio [WebPortfolio]
 
 <!-- <p align="right">
   <img src="https://www.linkpicture.com/q/kisspng-mount-fuji-download-poster-vector-wind-japan-5a81baab500e42.9392173615184513713279.png" width="150px" height="150px" >
@@ -92,5 +94,5 @@ Here are some ideas to get you started:
 [linkedin]: https://jp.linkedin.com/in/asith-ishantha-%E3%82%A2%E3%82%B7%E3%83%83%E3%83%88%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF-3164a4156
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
-
-
+[WebProfile]:   https://www.asithmadurawala.ml/
+[WebPortfolio]: https://asithishantha.github.io/
