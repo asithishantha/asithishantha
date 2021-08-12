@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me- [Instagram]
 - Web profile  [WebProfile]
 - Terminal Portfolio [WebPortfolio]
+- Blog [blog]
 
 <!-- <p align="right">
   <img src="https://www.linkpicture.com/q/kisspng-mount-fuji-download-poster-vector-wind-japan-5a81baab500e42.9392173615184513713279.png" width="150px" height="150px" >
@@ -96,3 +97,4 @@ Here are some ideas to get you started:
 [facebook]:  https://www.facebook.com/asith.ishantha.3
 [WebProfile]:   https://www.asithmadurawala.ml/
 [WebPortfolio]: https://asithishantha.github.io/
+[blog]:  https://bokettoshinaide.blogspot.com/
