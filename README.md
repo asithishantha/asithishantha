@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on - Global Design Project Japan  2021
 - 🌱 I’m currently studying at  - Future University Hakodate, Japan  公立はこだて未来大学
 - 📫 How to reach me- [Instagram]
-- Web profile  [WebProfile]
-- Terminal Portfolio [WebPortfolio]
-- Blog [blog]
+-  [WebProfile]
+-  [TerminalPortfolio]
+-  [blog]
 
 <!-- <p align="right">
   <img src="https://www.linkpicture.com/q/kisspng-mount-fuji-download-poster-vector-wind-japan-5a81baab500e42.9392173615184513713279.png" width="150px" height="150px" >
