@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Global Design Project Japan  2021
 - 🌱 I’m currently studying at  - Future University Hakodate, Japan  公立はこだて未来大学
-- 📫 How to reach me- [Instagram]
+- 📫 How to reach me- [email]  [Instagram]  [facebook]  [linkedin]
 -  [WebProfile]
 -  [TerminalPortfolio]
 -  [Blog]
@@ -101,3 +101,4 @@ Here are some ideas to get you started:
 [TerminalPortfolio]: https://asithishantha.github.io/
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
+[email]:  asithish075@gmail.com
