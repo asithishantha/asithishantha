@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
 [WebProfile]:   https://www.asithmadurawala.ml/
-[TerminalPortfolio]: https://asithishantha.github.io/
+[TerminalPortfolio]: https://www.asithishanthamadurawala.ml/
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [email]:  asithish075@gmail.com
