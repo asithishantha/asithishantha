@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 
 
-###  Hi, I'm Asith Ishantha Madurawala  LK  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+###  Hi, I'm Asith Ishantha Madurawala   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### アシットです。よろしくお願いいたします。JP
-
+### アシットです。よろしくお願いいたします。
 
 
 [![Website](https://img.shields.io/badge/Future%20University%20Japan-Japanese%20JLPT%20N2%20knowledge%20-brightgreen)](https://google.com)
