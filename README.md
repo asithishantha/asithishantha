@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 
 
-###  Hi, I'm Asith Ishantha Madurawala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+###  Hi, I'm Asith Ishantha Madurawala :sri_lanka:  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### アシットです。よろしくお願いいたします。 
+### アシットです。よろしくお願いいたします。 :jp:
 
 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
 - 🔭 I’m currently working on - Global Design Project Japan  2021
-- 🌱 I’m currently studying at  - Future University Hakodate, Japan  公立はこだて未来大学
+- 🌱 I’m currently studying at  - Future University Hakodate, Japan :jp: 公立はこだて未来大学  
 - 📫 How to reach me- [email]    [Instagram]    [facebook]    [linkedin]
 -  [WebProfile]
 -  [TerminalPortfolio]
