@@ -110,7 +110,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <h3 align="center">Proposed Product Design</h3>
      
 <p align="center">
-  <img src=" https://ibb.co/Lznt2vj" >
+  <img src="https://ibb.co/Lznt2vj" >
 </p>  
      
     
