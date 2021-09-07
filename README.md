@@ -124,6 +124,14 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 
    Our team "HIKARI" won the second prize for our proposed product design and the outstanding presentation. 
 <br />
+
+<h3 align="center"> TEAM HIKARI 光</h3>
+  <br />
+<p align="center">
+  <img src="https://photos.templatetoaster.info/moygt1.png" width="500px" height="500px">
+</p> 
+
+  <br />
 <br />
 <p align="center">
   <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
