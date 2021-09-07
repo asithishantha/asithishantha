@@ -92,13 +92,14 @@ Here are some ideas to get you started:
   
   <br />
   International Summer Design Workshop 2021 <br />
+</h3>
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/zzylcf.jpgg" >
+  <img src="https://photos.templatetoaster.info/zzylcf.jpg" >
 </p> 
   
 <br />
-</h3>
+
 
 
 8月にオンラインで行われたISDW(国際サマーデザインワークショップ)に参加した。シンガポール(Nanyang Polytechnic)、韓国(Sangmyung University)、台湾(National Taiwan Ocean University), 日本(公立はこだて未来大学、東京芝浦工業大学)の学生48名が参加し、約1週間のグループワークに取り組んだ。6/7人ずつのグループに分かれ、KJ法を用いて世界のきれいな水と衛生の問題を分析、プロダクトの提案を行った。コミュニケーションツールとして、zoom・miro・INSTAGRAM・SLACKを主に活用した。<br><br>
