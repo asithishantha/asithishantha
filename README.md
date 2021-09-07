@@ -212,26 +212,30 @@ I participated in the ISDW (International Summer Design Workshop) held online in
  -->
 
 
-<img src="https://photos.templatetoaster.info/x10nvf.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/e4m33p.png"  width="300px" height="426px"> 
+<img src="https://photos.templatetoaster.info/x10nvf.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/e4m33p.png"  width="500px" height="709px"> 
 | :--- | ---: | 
 
 <br />
 
-<img src="https://photos.templatetoaster.info/ohp8z6.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/wwh73o.png"  width="300px" height="426px">
+<img src="https://photos.templatetoaster.info/ohp8z6.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/wwh73o.png"  width="500px" height="709px">
 | :--- | ---: |  
 
 
 <br />
 
-<img src="https://photos.templatetoaster.info/kchqsa.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/v87rtz.png"  width="300px" height="426px">
+<img src="https://photos.templatetoaster.info/kchqsa.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/v87rtz.png"  width="500px" height="709px">
 | :--- | ---: | 
 
 <br />
-<img src="https://photos.templatetoaster.info/xaxvx3.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/flwfxa.png"  width="300px" height="426px">
+
+
+<img src="https://photos.templatetoaster.info/xaxvx3.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/flwfxa.png"  width="500px" height="709px">
 | :--- | ---: | 
 
 <br />
-<img src="https://photos.templatetoaster.info/f2hjw9.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/xg54hf.png"  width="300px" height="426px">
+
+
+<img src="https://photos.templatetoaster.info/f2hjw9.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/xg54hf.png"  width="500px" height="709px">
 | :--- | ---: | 
   
 
