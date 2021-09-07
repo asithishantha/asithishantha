@@ -83,17 +83,7 @@ Here are some ideas to get you started:
 
 I participated in the ISDW (International Summer Design Workshop) held online in August. Forty-eight students from Singapore (Nanyang Polytechnic), South Korea (Sangmyung University), Taiwan (National Taiwan Ocean University), and Japan (Future University-Hakodate, Shibaura Institute of Technology Tokyo) participated in the group work for about a week. Divided into groups of 6/7 people, we analyzed the problems of Clean Water and Sanitation in the world using the KJ method and proposed products. We mainly used ZOOM, MIRO, INSTAGRAM, and SLACK as communication tools.
   
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
-
-https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
-
-
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-
-https://aleen42.github.io/badges/src/illustrator.svg
-
-https://aleen42.github.io/badges/src/photoshop.svg
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
  </h4>
 
 
