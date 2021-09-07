@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 8月にオンラインで行われたISDW(国際サマーデザインワークショップ)に参加した。シンガポール(Nanyang Polytechnic)、韓国(Sangmyung University)、台湾(National Taiwan Ocean University), 日本(公立はこだて未来大学、東京芝浦工業大学)の学生49名が参加し、約1週間のグループワークに取り組んだ。6/7人ずつのグループに分かれ、KJ法を用いて世界のきれいな水と衛生の問題を分析、プロダクトの提案を行った。コミュニケーションツールとして、zoom・miro・INSTAGRAM・SLACKを主に活用した。<br><br>
 
-I participated in the ISDW (International Summer Design Workshop) held online in August. 499 students from Singapore (Nanyang Polytechnic), South Korea (Sangmyung University), Taiwan (National Taiwan Ocean University), and Japan (Future University-Hakodate, Shibaura Institute of Technology Tokyo) participated in the group work for about a week. Divided into groups of 6/7 people, we analyzed the problems of Clean Water and Sanitation in the world using the KJ method and proposed products. We mainly used ZOOM, MIRO, INSTAGRAM, and SLACK as communication tools.
+I participated in the ISDW (International Summer Design Workshop) held online in August. 49 students from Singapore (Nanyang Polytechnic), South Korea (Sangmyung University), Taiwan (National Taiwan Ocean University), and Japan (Future University-Hakodate, Shibaura Institute of Technology Tokyo) participated in the group work for about a week. Divided into groups of 6/7 people, we analyzed the problems of Clean Water and Sanitation in the world using the KJ method and proposed products. We mainly used ZOOM, MIRO, INSTAGRAM, and SLACK as communication tools.
 
 <h4 align="center"> 
  
