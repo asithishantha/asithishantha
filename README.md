@@ -109,9 +109,14 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 
 <h3 align="center">Proposed Product Design</h3>
      
-<p align="center">
+<!-- <p align="center">
   <img src="https://photos.templatetoaster.info/pbfj54.jpg" >
 </p>  
+      -->
+<p align="center">
+  <img src="https://photos.templatetoaster.info/oxs12d.jpg" >
+</p>  
+     
      
     
     
