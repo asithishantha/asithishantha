@@ -93,13 +93,13 @@ Here are some ideas to get you started:
   <br />
   International Summer Design Workshop 2021 <br />
 
-
-
+<p align="center">
+  <img src="https://photos.templatetoaster.info/zzylcf.jpgg" >
+</p> 
+  
+<br />
 </h3>
 
-<p align="center">
-  <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
-</p> 
 
 8月にオンラインで行われたISDW(国際サマーデザインワークショップ)に参加した。シンガポール(Nanyang Polytechnic)、韓国(Sangmyung University)、台湾(National Taiwan Ocean University), 日本(公立はこだて未来大学、東京芝浦工業大学)の学生48名が参加し、約1週間のグループワークに取り組んだ。6/7人ずつのグループに分かれ、KJ法を用いて世界のきれいな水と衛生の問題を分析、プロダクトの提案を行った。コミュニケーションツールとして、zoom・miro・INSTAGRAM・SLACKを主に活用した。<br><br>
 
@@ -115,6 +115,12 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
  </h4>
+ 
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
+</p> 
+
  
    私たちのチーム「ひかり」は、提案された製品デザインと優れたプレゼンテーションで2位を獲得しました。
 
@@ -155,6 +161,8 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <p align="center">
   <img src="https://www.linkpicture.com/q/ios_1.jpg">
 </p> 
+
+<br />
 
 <p align="center">
   <img src="https://photos.templatetoaster.info/xih7su.jpg">
