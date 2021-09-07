@@ -211,6 +211,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 </p> 
  -->
 
+<p align="center">
 <img src="https://photos.templatetoaster.info/x10nvf.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/e4m33p.png"  width="300px" height="426px"> 
 | :--- | ---: | 
 <img src="https://photos.templatetoaster.info/ohp8z6.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/wwh73o.png"  width="300px" height="426px">
@@ -222,6 +223,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <img src="https://photos.templatetoaster.info/f2hjw9.png"  width="300px" height="426px"> | <img src="https://photos.templatetoaster.info/xg54hf.png"  width="300px" height="426px">
 | :--- | ---: | 
   
+</p> 
 
 
 <!-- <p align="center">
