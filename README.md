@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/zzylcf.jpg" >
+  <img src="https://photos.templatetoaster.info/sflzi6.jpg" >
 </p> 
   
 <br />
