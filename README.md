@@ -172,19 +172,19 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 
 
  <p align="center">
-  <img src="https://photos.templatetoaster.info/x10nvf.png"  width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/x10nvf.png"  width="500px" height="709px">
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/e4m33p.png"  width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/e4m33p.png"  width="500px" height="709px">
 </p> 
  
 
  <p align="center">
-  <img src="https://photos.templatetoaster.info/ohp8z6.png" width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/ohp8z6.png" width="500px" height="709px">
 </p> 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/wwh73o.png" width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/wwh73o.png" width="500px" height="709px">
 </p> 
 
 <p align="center">
@@ -192,23 +192,23 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/v87rtz.png"  width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/v87rtz.png"  width="500px" height="709px">
 </p>
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/xaxvx3.png" width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/xaxvx3.png" width="500px" height="709px">
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/flwfxa.png" width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/flwfxa.png" width="500px" height="709px">
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/f2hjw9.png" width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/f2hjw9.png" width="500px" height="709px">
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/xg54hf.png"  width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/xg54hf.png"  width="500px" height="709px">
 </p> 
 
 
