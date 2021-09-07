@@ -77,7 +77,15 @@ Here are some ideas to get you started:
 <h3 align="left"> 👯 Most recent group project:</h3>
 
 
-<h3 align="center">  International Summer Design Workshop 2021 </h3>
+<h3 align="center">  International Summer Design Workshop 2021 <br />
+
+[![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png)]()
+[![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/jp.png)]()
+  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/kr.png)]()
+  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/sg.png)]()
+  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/lk.png)]()
+  
+</h3>
 
 <p align="center">
   <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
