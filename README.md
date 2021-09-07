@@ -210,6 +210,10 @@ I participated in the ISDW (International Summer Design Workshop) held online in
   <img src="https://photos.templatetoaster.info/xg54hf.png"  width="100px" height="142px">
 </p> 
  -->
+<img src="https://photos.templatetoaster.info/x10nvf.png"  width="50px" height="71px"> | <img src="https://photos.templatetoaster.info/e4m33p.png"  width="100px" height="142px"> 
+| :--- | ---: | 
+
+<br />
 
 
 <img src="https://photos.templatetoaster.info/x10nvf.png"  width="500px" height="709px"> | <img src="https://photos.templatetoaster.info/e4m33p.png"  width="500px" height="709px"> 
