@@ -116,16 +116,17 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]()
 [![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
  </h4>
+ <br />
  
+ 私たちのチーム「ひかり」は、提案された製品デザインと優れたプレゼンテーションで2位を獲得しました。
+
+   Our team "HIKARI" won the second prize for our proposed product design and the outstanding presentation. 
+<br />
 
 <p align="center">
   <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
 </p> 
 
- 
-   私たちのチーム「ひかり」は、提案された製品デザインと優れたプレゼンテーションで2位を獲得しました。
-
-   Our team "HIKARI" won the second prize for our proposed product design and the outstanding presentation. 
 
 <p align="center">
   <img src="https://www.linkpicture.com/q/1630320137462.jpeg" >
