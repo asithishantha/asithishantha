@@ -128,7 +128,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <h3 align="center"> TEAM HIKARI 光</h3>
   <br />
 <p align="center">
-  <img src="https://photos.templatetoaster.info/moygt1.png" width="500px" height="500px">
+  <img src="https://photos.templatetoaster.info/moygt1.png" width="150px" height="150px">
 </p> 
 
   <br />
