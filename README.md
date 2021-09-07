@@ -117,12 +117,12 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 [![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
  </h4>
  <br />
- 
+ <br />
  私たちのチーム「ひかり」は、提案された製品デザインと優れたプレゼンテーションで2位を獲得しました。
 
    Our team "HIKARI" won the second prize for our proposed product design and the outstanding presentation. 
 <br />
-
+<br />
 <p align="center">
   <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="500px" height="500px">
 </p> 
@@ -160,20 +160,56 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 
 <h3 align="center">  Our Team members </h3>
 <br />
+
 <p align="center">
   <img src="https://www.linkpicture.com/q/ios_1.jpg">
 </p> 
 
 <br />
+<h3 align="center"> Project Poster Presentation </h3>
+<br />
 
-<p align="center">
-  <img src="https://photos.templatetoaster.info/xih7su.jpg">
+
+
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/x10nvf.png">
 </p> 
 
-
-
+<p align="center">
+  <img src="https://photos.templatetoaster.info/e4m33p.png">
+</p> 
  
- 
+
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/ohp8z6.png">
+</p> 
+<p align="center">
+  <img src="https://photos.templatetoaster.info/wwh73o.png">
+</p> 
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/kchqsa.png">
+</p> 
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/v87rtz.png">
+</p>
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/xaxvx3.png">
+</p> 
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/flwfxa.png">
+</p> 
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/f2hjw9.png">
+</p> 
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/xg54hf.png">
+</p> 
 
 
 
