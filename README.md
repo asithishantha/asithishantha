@@ -198,7 +198,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 </p> 
 
 <p align="center">
-  <img src="https://photos.templatetoaster.info/kchqsa.png"  width="700px" height="993px">
+  <img src="https://photos.templatetoaster.info/kchqsa.png"  width="500px" height="709px">
 </p> 
 
 <p align="center">
