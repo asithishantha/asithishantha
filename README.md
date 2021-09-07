@@ -79,13 +79,19 @@ Here are some ideas to get you started:
 
 <h3 align="center">  International Summer Design Workshop 2021 <br />
 
-   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png"  width="100px" height="67px" >
-[![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png)]()
-[![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/jp.png)]()
-  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/kr.png)]()
-  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/sg.png)]()
-  [![](https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/lk.png)]()
+   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png"  width="50px" height="33px" >
   
+  
+  
+   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/kr.png"  width="50px" height="33px" >
+  
+   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/jp.png"  width="50px" height="33px" >
+  
+   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/sg.png"  width="50px" height="33px" >
+  
+   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/lk.png"  width="50px" height="33px" >
+  
+
 </h3>
 
 <p align="center">
