@@ -88,7 +88,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 [![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
 [![](https://aleen42.github.io/badges/src/illustrator.svg)]()
 [![](https://aleen42.github.io/badges/src/photoshop.svg)]()
-[![](https://forthebadge.com/generator/?plabel=Rhinoceros&slabel=3D)]()
+https://forthebadge.com/generator/?plabel=Rhinoceros&slabel=3D
  </h4>
 
 
