@@ -107,9 +107,9 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 </p> 
                                     
 <br />
-<br />
-<h3 align="center">  Our Team members </h3>
 
+<h3 align="center">  Our Team members </h3>
+<br />
 <p align="center">
   <img src="https://www.linkpicture.com/q/ios_1.jpg">
 </p> 
