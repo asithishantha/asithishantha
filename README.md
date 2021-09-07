@@ -91,6 +91,19 @@ Here are some ideas to get you started:
 
 <br />
 
+
+<h3 align="left">:hammer_and_wrench: Most recent group project:</h3>
+
+
+<h3 align="center">  ISDW  2021 (International Summer Design Workshop 2021) </h3>
+
+<h4 align="center"> 8月にオンラインで行われたISDW(国際サマーデザインワークショップ)に参加した。シンガポール(Nanyang Polytechnic)、韓国(Sangmyung University)、台湾(National Taiwan Ocean University), 日本(公立はこだて未来大学、東京芝浦工業大学)の学生48名が参加し、約1週間のグループワークに取り組んだ。6/7人ずつのグループに分かれ、KJ法を用いて世界のきれいな水と衛生の問題を分析、プロダクトの提案を行った。コミュニケーションツールとして、zoom・LINE・miro・INSTAGRAM・SLACKを主に活用した。<br><br>
+
+I participated in the ISDW (International Summer Design Workshop) held online in August. Forty-eight students from Singapore (Nanyang Polytechnic), South Korea (Sangmyung University), Taiwan (National Taiwan Ocean University), and Japan (Future University-Hakodate, Shibaura Institute of Technology Tokyo) participated in the group work for about a week. Divided into groups of 6/7 people, we analyzed the problems of Clean Water and Sanitation in the world using the KJ method and proposed products. We mainly used ZOOM, LINE, MIRO, INSTAGRAM, and SLACK as communication tools.
+ </h4>
+
+
+
 <!-- Optional if you have blogs -->
 
 <!-- This section you create this variables that are used above -->
@@ -105,15 +118,6 @@ Here are some ideas to get you started:
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [email]:  asithish075@gmail.com
 
-<h3 align="left">:hammer_and_wrench: Most recent group project:</h3>
-
-
-<h3 align="center">  ISDW  2021 (International Summer Design Workshop 2021) </h3>
-
-<h4 align="center"> 8月にオンラインで行われたISDW(国際サマーデザインワークショップ)に参加した。シンガポール(Nanyang Polytechnic)、韓国(Sangmyung University)、台湾(National Taiwan Ocean University), 日本(公立はこだて未来大学、東京芝浦工業大学)の学生48名が参加し、約1週間のグループワークに取り組んだ。6/7人ずつのグループに分かれ、KJ法を用いて世界のきれいな水と衛生の問題を分析、プロダクトの提案を行った。コミュニケーションツールとして、zoom・LINE・miro・INSTAGRAM・SLACKを主に活用した。
-
-I participated in the ISDW (International Summer Design Workshop) held online in August. Forty-eight students from Singapore (Nanyang Polytechnic), South Korea (Sangmyung University), Taiwan (National Taiwan Ocean University), and Japan (Future University-Hakodate, Shibaura Institute of Technology Tokyo) participated in the group work for about a week. Divided into groups of 6/7 people, we analyzed the problems of Clean Water and Sanitation in the world using the KJ method and proposed products. We mainly used ZOOM, LINE, MIRO, INSTAGRAM, and SLACK as communication tools.
- </h4>
 
 
 
