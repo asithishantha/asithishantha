@@ -101,10 +101,20 @@ I participated in the ISDW (International Summer Design Workshop) held online in
    私たちのチーム「ひかり」は、提案された製品デザインと優れたプレゼンテーションで2位を獲得しました。
 
    Our team "HIKARI" won the second prize for our proposed product design and the outstanding presentation. 
-                                         
+
 <p align="center">
-  <img src="https://www.linkpicture.com/q/1630320137462.jpeg">
+  <img src="https://www.linkpicture.com/q/1630320137462.jpeg" >
 </p> 
+
+
+<h3 align="center">Proposed Product Design</h3>
+     
+<p align="center">
+  <img src=" https://ibb.co/Lznt2vj" >
+</p>  
+     
+    
+    
                                     
 <br />
 
