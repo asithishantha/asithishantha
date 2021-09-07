@@ -75,11 +75,10 @@ Here are some ideas to get you started:
 
 
 <h3 align="left"> 👯 Most recent group project:</h3>
+  <br />
 
-
-<h3 align="center">  International Summer Design Workshop 2021 <br />
-
-   <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png"  width="50px" height="33px" >
+<h3 align="center"> 
+     <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/tw.png"  width="50px" height="33px" >
   
   
   
@@ -91,6 +90,10 @@ Here are some ideas to get you started:
   
    <img src="https://s3.amazonaws.com/images.wpr.com/flag-pages/png250/lk.png"  width="50px" height="33px" >
   
+  <br />
+  International Summer Design Workshop 2021 <br />
+
+
 
 </h3>
 
