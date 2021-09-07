@@ -163,17 +163,6 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <p align="center">
   <img src="https://photos.templatetoaster.info/oxs12d.jpg" >
 </p>  
-     
-    
-                                    
-<br />
-
-<h3 align="center">  Our Team members </h3>
-<br />
-
-<p align="center">
-  <img src="https://www.linkpicture.com/q/ios_1.jpg">
-</p> 
 
 <br />
 <h3 align="center"> Project Poster Presentation </h3>
