@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left"> 👯 Most recent group project:</h3>
+<h3 align="left"> 👯 Most recent  project:</h3>
   <br />
 
 <h3 align="center"> 
@@ -128,7 +128,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 <h3 align="center"> TEAM HIKARI 光</h3>
   <br />
 <p align="center">
-  <img src="https://photos.templatetoaster.info/moygt1.png" width="150px" height="150px">
+  <img src="https://photos.templatetoaster.info/moygt1.png" width="200px" height="200px">
 </p> 
 
   <br />
