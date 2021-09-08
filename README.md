@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/badge/Future%20University%20Japan-Japanese%20JLPT%20N2%20knowledge%20-brightgreen)](https://google.com)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=asithishantha.asithishantha)  [![Github](https://img.shields.io/github/followers/asithishantha?label=Follow&style=social)](https://github.com/asithishantha)
+![](https://visitor-badge.laobi.icu/badge?page_id=asithishantha.asithishantha)  ![Github](https://img.shields.io/github/followers/asithishantha?label=Follow&style=social)](https://github.com/asithishantha)
 
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
