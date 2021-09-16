@@ -304,7 +304,7 @@ Certificate of Achievement   <br />
 Connect with [Dhaneja Meegoda]
 
  <br />
-copy the following link or press the following image to watch the video..
+copy the following link or press the following image to watch the video.
 
        https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s
  <br />
