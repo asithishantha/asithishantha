@@ -173,7 +173,7 @@ copy the following link or press the following image.
 </p>  
       -->
 <p align="center">
-  <img src="https://photos.templatetoaster.info/oxs12d.jpg" width="500px" height="281px">
+  <img src="https://photos.templatetoaster.info/oxs12d.jpg" width="500px" height="353px">
 </p>  
 
 
