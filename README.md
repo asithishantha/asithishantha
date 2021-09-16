@@ -182,6 +182,139 @@ Please visit the ISDW 2021 repository for the detailed information and poster pr
        https://github.com/asithishantha/ISDW-2021-Japan-South-Korea-Taiwan-Singapore-Sri-Lanka
        
 
+<h2 align="center"> 
+ Sakura Science Japan Tour 2019 December     <br />
+ </h2> 
+    <br />
+
+<p align="center">
+  <img src="https://photos.templatetoaster.info/7kvpjc.png" ><br />
+  
+</p> 
+
+  
+  <br />
+ <h3 align="center"> 
+ Sakura Science Sri Lanka Represented Team  Members <br />
+</h3>
+                  
+<h4 align="center"> 
+Kushini Hathurusinghe    <br />
+Ravindu Sankha      <br />
+Miyuru Kularathne    <br />                                                               
+Dhaneja Meegoda      <br />                                                               
+Dhanika Ponnamperuma    <br />                                                            
+Senesh Deshan       <br />                                                                 
+Nelushi Amaya     <br />                                                             
+Asith Ishantha Madurawala        <br />                                                         
+</h4>
+       
+                                                      
+                                                              
+   
+ <br />
+ 
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/05aaje.jpg" >
+</p> 
+<!-- Photo Courtsey: Miyuru Kularathne -->
+
+  
+
+
+<p align="center">
+  <br />
+  In 2014, JST began the Sakura Science Program. This program is designed to invite young people from countries and regions to Japan for a short period of time, and to allow them to come into contact with leading-edge science and technology and Japanese culture, and to provide them with opportunities to understand each other and to build strong relationships through interaction with young people in Japan.
+</p> 
+
+
+
+<br />
+
+<h3 align="center"> 
+  
+<!--    
+  <img src="https://photos.templatetoaster.info/6a40sy.png"  width="600px" height="539px" > -->
+  
+  <img src="https://photos.templatetoaster.info/xpa68o.png"  width="450px" height="404px" >
+  
+  
+  
+
+  <br />
+</h3> 
+
+
+  
+<br />
+
+     Through the SAKURA Exchange Program in Science, a group of 8 participants from the Lanka Nippon Biztech Institute Sri Lanka 
+     (lNBTI) visited the Kyushu Institute of Technology (kyutech) Fukuoka and Metatechno inc. Kanagawa for a Cultural exchange, 
+     One day Internship and IOT workshop program running from December 10 to 15, 2019. During the program, participants experienced 
+     in the Japanese IT industry, IOT wih microcontroller programming using Ruby programming language and Japanese culture.
+     We (Sri Lankan students) were selected for this program using a competitive system based on academic performance 
+     and Japanese language proficiency. 
+
+
+<h3 align="center"> 
+ 
+Purposes of Sakura Science Exchange Program <br />
+  
+</h3>
+
+    By exchanging ideas in the field of science and technology among the participants of Sakura Science Program, 
+
+    - Support the development of talented people overseas who have the potential to contribute to innovation 
+    in science and technology; and support continuous interaction between Japan and other countries and regions.
+    - Promote globalization of Japanese educational and research institutes
+    - Strengthen good relationship between Japan and other countries and regions And ultimately we pursue the 
+    development of science and technology in Japan and worldwide.
+
+
+People who come to Japan on Sakura Science Exchange Program will be certified as members of the Sakura Science Club, the alumni association of the Sakura Science Exchange Program.
+
+
+
+
+
+     “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes. I became more interested in science and 
+     technology and I began to understand the importance of science and technology after participating Sakura Science Exchange
+     Program.Also, when we  think about things, and when we try to do something, we must first think about the ethics and common
+     benefit of mankind.I think I have broadened my horizons by participating in this program.”        
+     
+     Asith Ishantha Madurawala
+
+
+  <h4 align="center"> 
+Certificate of Achievement   <br />
+
+</h4>  
+  
+<br />
+ 
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/aj4z0w.jpg" width="450px" height="333px" >
+</p> 
+
+ <br />
+
+<h3 align="center"> YouTube Movie Presentation by Dhaneja Meegoda  </h3>
+ <br />
+copy the following link or press the following image.
+
+       https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s
+ <br />
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=E1uuD_QntMQ&t=621s">
+         <img src="https://photos.templatetoaster.info/4lyhnc.jpg" width="500px" height="281px">
+      </a>
+</div>
+ <br />
+ Please visit the sakura science repository for the japan tour detailed schedule with images.
+
+       https://github.com/asithishantha/Sakura_Science_Japan_Tour_2019_December/
+       
+ <br />
 
 
 ## Connect with me:
