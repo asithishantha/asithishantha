@@ -143,7 +143,7 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 
 
 <p align="center">
-  <img src="https://www.linkpicture.com/q/1630320137462.jpeg" width="500px" height="281px">
+  <img src="https://www.linkpicture.com/q/1630320137462.jpeg" width="500px" height="353px">
 </p> 
 
 <br />
@@ -173,7 +173,7 @@ copy the following link or press the following image.
 </p>  
       -->
 <p align="center">
-  <img src="https://photos.templatetoaster.info/oxs12d.jpg" >
+  <img src="https://photos.templatetoaster.info/oxs12d.jpg" width="500px" height="281px">
 </p>  
 
 
