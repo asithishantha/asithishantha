@@ -298,9 +298,11 @@ Certificate of Achievement   <br />
 
  <br />
 
-<h3 align="center"> YouTube Movie Presentation by [Dhaneja Meegoda]
-
+<h3 align="center"> YouTube Movie Presentation by Dhaneja Meegoda
 </h3>
+
+Connect with [Dhaneja Meegoda]
+
  <br />
 copy the following link or press the following image.
 
