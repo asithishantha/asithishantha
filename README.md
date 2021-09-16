@@ -298,7 +298,9 @@ Certificate of Achievement   <br />
 
  <br />
 
-<h3 align="center"> YouTube Movie Presentation by Dhaneja Meegoda  </h3>
+<h3 align="center"> YouTube Movie Presentation by [Dhaneja Meegoda]
+
+</h3>
  <br />
 copy the following link or press the following image.
 
@@ -348,7 +350,7 @@ copy the following link or press the following image.
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [email]:  asithish075@gmail.com
-
+[Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
 
 
 
