@@ -276,11 +276,10 @@ People who come to Japan on Sakura Science Exchange Program will be certified as
 
 
 
-
-     “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes. I became more interested in science 
-     and technology and I began to understand the importance of science and technology after participating Sakura Science Exchange
-     Program.Also, when we  think about things, and when we try to do something, we must first think about the ethics and common
-     benefit of mankind.I think I have broadened my horizons by participating in this program.”        
+    “ I thought Japan is far beyond my expectations. By looking at Japan with my own eyes, I began to understand the importance 
+     of science and technology after participating in Sakura Science Exchange Program. Also, I learnt that, when we think about 
+     new ideas, and when we try to do something, we must first think about the ethics and common benefit of mankind. I think I have 
+     broadened my horizons by participating in this program.”       
      
      Asith Ishantha Madurawala
 
