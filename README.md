@@ -228,6 +228,39 @@ Asith Ishantha Madurawala        <br />
 </p> 
 
 
+<h3 align="center"> 
+ Invited University and the Professor  <br />
+</h3>
+
+<h4 align="center"> 
+Kyushu Institute of Technology, Iizuka, Fukuoka, Japan. <br />
+Professor Kazuaki Tanaka <br />
+</h4>
+
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/b4fjl5.jpg" width="199px" height="199px">>
+</p> 
+ <br />
+ 
+<h3 align="center"> 
+ Arranged by <br />
+</h3>
+ 
+<h4 align="center"> 
+
+Kazuyuki Ikura 様　 <br /> 
+Senior Manager Metatechno Inc. Kanagawa,Japan.<br />
+Director of Lanka Nippon Biztech Institute, Sri Lanka. <br />
+</h4>
+
+   
+ <p align="center">
+  <img src="https://photos.templatetoaster.info/upzqvv.jpg" width="300px" height="225px">
+</p> 
+
+ <br />
+
+
 
 <br />
 
