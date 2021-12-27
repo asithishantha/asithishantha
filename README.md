@@ -379,7 +379,7 @@ copy the following link or press the following image to watch the video.
 <!-- [website]: https://google.com -->
 [Virtual Portfolio]:  https://dev-portfolioasith.pantheonsite.io/
 [twitter]: https://twitter.com/AsithIshantha
-[linkedin]: https://jp.linkedin.com/in/asith-ishantha-%E3%82%A2%E3%82%B7%E3%83%83%E3%83%88%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%BF-3164a4156
+[linkedin]: https://www.linkedin.com/in/asith-ishantha/
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
 [WebProfile]:   https://www.asithmadurawala.ml/
