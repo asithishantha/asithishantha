@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Global Design Project Japan  2021
 - 🌱 I’m currently studying at  - Future University Hakodate, Japan JP 公立はこだて未来大学  
-- 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- b1019256@fun.ac.jp
+- 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
 -  [Virtual Portfolio]
 -  [WebProfile]
 -  [TerminalPortfolio]
