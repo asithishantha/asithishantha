@@ -69,10 +69,7 @@ Here are some ideas to get you started:
     </p>
 
 
-[![Asith's github stats](https://github-readme-stats.vercel.app/api?username=asithishantha&count_private=true&include_all_commits=true&theme=radical)](https://google.com) 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+[![Asith's github stats](https://github-readme-stats.vercel.app/api?username=asithishantha&count_private=true&include_all_commits=true&theme=radical)](https://google.com)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <!-- 
 [![Asith's github stats](https://github-readme-stats.vercel.app/api?username=asithishantha&count_private=true&include_all_commits=true&theme=radical)](https://google.com) 
