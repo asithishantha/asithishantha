@@ -68,6 +68,12 @@ Here are some ideas to get you started:
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
+
+[![Asith's github stats](https://github-readme-stats.vercel.app/api?username=asithishantha&count_private=true&include_all_commits=true&theme=radical)](https://google.com) 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!-- 
 [![Asith's github stats](https://github-readme-stats.vercel.app/api?username=asithishantha&count_private=true&include_all_commits=true&theme=radical)](https://google.com) 
 
