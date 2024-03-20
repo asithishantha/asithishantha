@@ -375,7 +375,7 @@ copy the following link or press the following image to watch the video.
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
 [WebProfile]:   https://www.asithmadurawala.ml/
-[TerminalPortfolio]: asithishantha.github.io
+[TerminalPortfolio]: https://asithishantha.github.io/
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
