@@ -138,17 +138,6 @@ I participated in the ISDW (International Summer Design Workshop) held online in
 </p> 
 
   <br />
-<br />
-<p align="center">
-  <img src="https://www.linkpicture.com/q/IMG_20210829_161318_351.jpg" width="300px" height="300px">
-</p> 
-
-
-<p align="center">
-  <img src="https://www.linkpicture.com/q/1630320137462.jpeg" width="500px" height="353px">
-</p> 
-
-<br />
 
 
 
