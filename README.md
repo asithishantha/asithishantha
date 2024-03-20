@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 🔭 I’m currently working on - Global Design Project Japan  2021
-- 🌱 I’m currently studying at  - Future University Hakodate, Japan JP 公立はこだて未来大学  
+- 🔭 I’m currently working as a Full time System Engineer in Hokkaido, Sapporo.
+- 🌱 I graduated from Future University Hokkaido, Hakodate,JP 公立はこだて未来大学  
 - 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
 -  [Virtual Portfolio]
 -  [WebProfile]
