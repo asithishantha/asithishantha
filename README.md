@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Full time System Engineer in Hokkaido, Sapporo.
 - 🌱 I graduated from Future University Hokkaido, Hakodate,JP 公立はこだて未来大学
-- 🔭 最近、Android(Kotlin)モバイル開発に集中
+- 🔭 最近、Android(Kotlin)モバイル開発に集中(４月中旬ぐらいから勉強し始めた！)
 - 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
 -  [Virtual Portfolio]
 -  [WebProfile]
