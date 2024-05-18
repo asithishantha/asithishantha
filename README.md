@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
 -  [Virtual Portfolio]
 -  [TerminalPortfolio]
+-  [履歴書]
 -  [Blog]
 -  [ResearchPapers]
 
@@ -375,6 +376,7 @@ copy the following link or press the following image to watch the video.
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
 [TerminalPortfolio]: https://asithishantha.github.io/
+[履歴書]: https://pdflink.to/393d83fb/
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
