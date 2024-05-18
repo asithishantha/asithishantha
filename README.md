@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - 🔭 最近、Android(Kotlin)モバイル開発に集中(４月中旬ぐらいから勉強し始めた！)
 - 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
 -  [Virtual Portfolio]
--  [WebProfile]
 -  [TerminalPortfolio]
 -  [Blog]
 -  [ResearchPapers]
@@ -375,7 +374,6 @@ copy the following link or press the following image to watch the video.
 [linkedin]: https://www.linkedin.com/in/asith-ishantha/
 [Instagram]:  https://www.instagram.com/asithishantha/
 [facebook]:  https://www.facebook.com/asith.ishantha.3
-[WebProfile]:   https://www.asithmadurawala.ml/
 [TerminalPortfolio]: https://asithishantha.github.io/
 [blog]:  https://bokettoshinaide.blogspot.com/
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
