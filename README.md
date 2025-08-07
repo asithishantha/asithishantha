@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
-- 🔭 I’m currently working as a Full time System Engineer in Hokkaido, Sapporo.
+- 🔭 I’m currently working as a System Engineer/ Team Leader work for company in Osaka and work remotely from in Hokkaido, Sapporo.
 - 🌱 I graduated from Future University Hokkaido, Hakodate,JP 公立はこだて未来大学
 - 🔭 最近、Android(Kotlin)モバイル開発に集中(４月中旬ぐらいから勉強し始めた！)
 - 📫 How to reach me-  [Instagram]   [facebook]   [linkedin]   Email- asithish075@gmail.com
@@ -381,6 +381,7 @@ copy the following link or press the following image to watch the video.
 [ResearchPapers]: https://www.researchgate.net/profile/Asith-Ishantha-3
 [Dhaneja Meegoda]:  https://lk.linkedin.com/in/dhaneja-meegoda-0417
   
+
 
 
 
